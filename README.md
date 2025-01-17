@@ -51,5 +51,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or suggestions, please contact:
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
+- **Author**: Faijan Khatik
+- **Email**: khatikfaizan786@gmail.com
